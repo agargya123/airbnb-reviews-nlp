@@ -71,6 +71,8 @@ If you do not already have Git LFS on your system, install Git LFS (Large File S
 git lfs install
 ```
 
-Once this is installed on your local machine, Git will automatically 
-Now you can run the Airbnb-reviews-analytics notebook found under the "notebooks/" folder and make your changes!
+Once this is installed on your local machine, Git will automatically pull the required files from LFS. No extra steps needed.
+
+
+Now you can run the Airbnb-reviews-analytics notebook found under the "notebooks/" folder and perform your analysis!
 

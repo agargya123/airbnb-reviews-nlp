@@ -66,7 +66,7 @@ Make sure you have Python installed. Then, install the required dependencies usi
 ```bash
 pip install -r requirements.txt
 ```
-If you do not already have Git LFS on your system, install Git LFS (Large File Storage) this is crucial to be able to access and download the "reviews.csv" file
+If you do not already have Git LFS on your system, install Git LFS (Large File Storage) this is crucial to be able to access and download some of the data files
 ```bash
 git lfs install
 ```

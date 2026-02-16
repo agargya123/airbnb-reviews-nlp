@@ -39,7 +39,7 @@ To get this project up and running on your local machine, follow these steps:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/agargya123/airbnb-reviews-nlp
 ````
 
 ### **2. Setting up and activating your virtual environment**
